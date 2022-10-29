@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aslic\\source\\repos\\AccHW1\\Owner.API\\Owner.API\\Owner.API.csproj",
+      "projectUniqueName": "C:\\Users\\aslic\\Desktop\\AsliCanCoplu-Week1-Homework\\Owner.API\\Owner.API\\Owner.API.csproj",
       "projectName": "Owner.API",
-      "projectPath": "C:\\Users\\aslic\\source\\repos\\AccHW1\\Owner.API\\Owner.API\\Owner.API.csproj",
+      "projectPath": "C:\\Users\\aslic\\Desktop\\AsliCanCoplu-Week1-Homework\\Owner.API\\Owner.API\\Owner.API.csproj",
       "packagesPath": "C:\\Users\\aslic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aslic\\source\\repos\\AccHW1\\Owner.API\\Owner.API\\obj\\",
+      "outputPath": "C:\\Users\\aslic\\Desktop\\AsliCanCoplu-Week1-Homework\\Owner.API\\Owner.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aslic\\AppData\\Roaming\\NuGet\\NuGet.Config",

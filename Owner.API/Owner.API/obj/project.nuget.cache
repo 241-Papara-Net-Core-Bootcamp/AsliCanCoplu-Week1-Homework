@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tNOiXfXB9bRJrw2egxM7PC0Xr71hhZ3782D58hMRY8FYs0prg4oEyLeKBQWaxPEVJ6DyzLCsfFSdJodpitrwUw==",
+  "dgSpecHash": "KFVtx+OZcJK2qKfaMUDpeBBo6VbdoeiJRu3aF0rFqXGki0PNyqWvELM8zuFL0rPlXMjt5Mi0D4YyhT+GsZ9dMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aslic\\source\\repos\\AccHW1\\Owner.API\\Owner.API\\Owner.API.csproj",
+  "projectFilePath": "C:\\Users\\aslic\\Desktop\\AsliCanCoplu-Week1-Homework\\Owner.API\\Owner.API\\Owner.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aslic\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\aslic\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
